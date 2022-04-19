@@ -8,7 +8,7 @@ Este algoritmo consiste en un sistema automático de llenado y vaciado de tanque
  
 ### Librerías
    * [Universal Arduino Telegram Bot](https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot)
-   * [WiFiClienSecure](https://github.com/espressif/arduino-esp32/tree/master/libraries/WiFiClientSecure)
+   * [WiFiClientSecure](https://github.com/espressif/arduino-esp32/tree/master/libraries/WiFiClientSecure)
    * [ArduinoJson](https://github.com/bblanchon/ArduinoJson)
    * [WiFi](https://github.com/espressif/arduino-esp32/tree/master/libraries/WiFi)
    * [Wire](https://github.com/espressif/arduino-esp32/tree/master/libraries/Wire)
