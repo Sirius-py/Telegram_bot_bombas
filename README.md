@@ -2,8 +2,8 @@
 Este algoritmo consiste en un sistema automático de llenado y vaciado de tanques usando un bot de Telegram para monitorear y controlar el propio sistema.
 
 
-### HARDWARE
-  * [ESP32](https://www.sparkfun.com/products/18035)
+### Hardware
+  * [ESP32](https://www.sparkfun.com/products/18035) o [ESP8266](https://www.sparkfun.com/products/13711)
   * [Sensor ultrasónico HC-SR04](https://www.sparkfun.com/products/15569)
  
 ### Librerías
