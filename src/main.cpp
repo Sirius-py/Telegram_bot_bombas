@@ -2,7 +2,7 @@
 #include <WiFi.h>
 #include <SPI.h>
 #include <WiFiClientSecure.h>
-#include <UniversalTelegramBot.h> // Libreria de Universal Telegram la Puedes descargar Aqui: https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot
+#include <UniversalTelegramBot.h> 
 #include <ArduinoJson.h>
 
 // Coloca Aqui los credenciales del Wifi
